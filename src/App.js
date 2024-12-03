@@ -1,4 +1,3 @@
-import "./App.css";
 import ExchangeRate from "./components/ExchangeRate";
 
 function App() {
